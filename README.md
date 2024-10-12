@@ -1,3 +1,29 @@
+
+ 1) instructions :
+  on how to set up and run your application
+  npm start 
+  for backend server run follow this :
+  cd news-backend
+  node server.js
+  API key is: 130ee2ca19774b1bbe2012797ec837f3
+  http://localhost:5000/api/news
+  2) locally :
+  Clearly mention any additional libraries or dependencies required.
+    frontend:
+    "axios": "^1.7.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+     backend:
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
